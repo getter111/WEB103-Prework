@@ -35,9 +35,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Untitled_Project_V1](https://github.com/getter111/WEB103-Prework/assets/92635104/8b68c246-55c6-4c23-9851-d8bbec9d31e0)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 [ScreenToGif](https://www.screentogif.com/)
+GIF created with ...  👉🏿 [Kapwing](https://www.kapwing.com/)
 
 ## Notes
 
